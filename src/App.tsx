@@ -4,7 +4,6 @@ function App() {
   return (
     <>
       <div>Hello World</div>
-      <div>testioio</div>
     </>
   );
 }
