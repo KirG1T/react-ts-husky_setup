@@ -1,0 +1,5 @@
+'src/**/*.{js,jsx,ts,tsx}': 
+  - 'eslint --cache --cache-location ./node_modules/.cache/.eslintcache --fix'
+  - 'prettier --loglevel warn --cache --write'
+'src/**/*.{css,md,json}':   
+  - 'prettier --loglevel warn --cache --write'
